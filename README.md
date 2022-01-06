@@ -16,7 +16,7 @@ provides a comment that briefly describes what the code does.
 
 <br>
 
-![Demo](https://raw.githubusercontent.com/deepcomment/deepcode/main/images/feature.gif)
+![Demo](https://raw.githubusercontent.com/akvelon/deepcode/main/images/feature.gif)
 
 
 ## Supported languages
@@ -24,7 +24,7 @@ The following languages are fully-supported:
 - Python
 - Java
 - C#
-- Javascript
+- JavaScript
 - TypeScript
 - PHP
 - Go
