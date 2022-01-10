@@ -1,20 +1,15 @@
 ## Auto Сomment 
 
-The Auto Сomment allows you to automatically generate code comments using AI model.
-
-<br>
+The Auto Сomment allows to generate code comments automatically using AI model.
 
 ## Features
 
-This extension introduces a ```Add a comment``` that based on the code snippet selected
-provides a comment that briefly describes what the code does.
+This extension introduces an Add a comment option. It provides a user with a comment for a selected code snippet that briefly describes what the fragment does.
 
-- Just select a code fragment to add comment to
+- Select a code fragment to add comment to
 - Press ```Shift-Ctrl-P``` to call the Comment Palette and search for ```Add a comment```
   - Alternatively, you can press ```Shift-Ctrl-/``` to call the command directly
-- Once the extension finished processing, the comment line will appear above the selected code
-
-<br>
+- Once the processing is finished, the line with the generated comment will appear above the selected lines.
 
 ![Demo](https://raw.githubusercontent.com/akvelon/deepcode/main/images/feature.gif)
 
@@ -30,8 +25,5 @@ The following languages are fully-supported:
 - Go
 - Ruby
 
-<br>
-
 ## Privacy & Compliance
-The code snippets user submits are processed on our servers. The code sent is used solely for the purpose of helping us provide service to you.
-We **DO NOT** store or share the code snippets
+The users’ code snippets are processed on Akvelon servers. The code sent is used solely for the purpose of helping the Akvelon team provide users with the service. We DO NOT store or share the code snippets.
