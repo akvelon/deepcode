@@ -27,3 +27,4 @@ The following languages are fully-supported:
 
 ## Privacy & Compliance
 The users’ code snippets are processed on Akvelon servers. The code sent is used solely for the purpose of helping the Akvelon team provide users with the service. We DO NOT store or share the code snippets.
+1
